@@ -111,12 +111,12 @@ public class Main {
 
 //    // пугаем Exception
 //    public static void main(String[] args)  throws Exception {
-////        Throwable t = new Exception(); // и лететь будет Exception
-////        throw t; // но тут ошибка компиляции
+//        Throwable t = new Exception(); // и лететь будет Exception
+//        throw t; // но тут ошибка компиляции
 //
-////        Object ref = "Hello!";  // ref указывает на строку
-////        char c = ref.charAt(0); // но тут ошибка компиляции; компилятор ориентируется на «левый тип» (тип ссылки, а не тип ссылаемого)
-////                                // и не пропускает такой код
+//        Object ref = "Hello!";  // ref указывает на строку
+//        char c = ref.charAt(0); // но тут ошибка компиляции; компилятор ориентируется на «левый тип» (тип ссылки, а не тип ссылаемого)
+//                                // и не пропускает такой код
 //
 //        try {
 //            Throwable t = new Exception(); // и лететь будет Exception
